@@ -38,5 +38,3 @@ _inspiriert von dem [Mod von Pious880](https://modrinth.com/datapack/mobarmy-bat
 **Auftretende Bugs bitte einfach reporten, dann schau ich, was sich da machen lässt ;D**
 
 Ist btw meine erste Erfahrung mit java in Minecraft, also bitte nur konstruktives Feedback, danke!
-
-_Icon KI-generiert von Gemini_

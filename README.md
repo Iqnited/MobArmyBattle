@@ -31,6 +31,7 @@ _inspiriert von dem [Mod von Pious880](https://modrinth.com/datapack/mobarmy-bat
   - _time_
     - _add | remove <minutes>_: entfernt / addiert Zeit zur aktuellen Phase (auch bei Konfig-Phase nutzbar)
     - _skip_: Beendet die aktuelle Phase und startet die nächste
+  - _randomizer <mode>_: aktiviert / deaktiviert einen Block-Randomizer
 - _/skip_: während der Kampf-Phase: startet die nächste Welle für das Team des Spielers
 
 ##
